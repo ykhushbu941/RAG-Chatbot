@@ -9,7 +9,7 @@ Built as part of the **Wattmonk AI Intern Assignment**.
 ---
 
 ## 🚀 Live Demo
-> Deployed URL: (http://localhost:8501/#wattmonk-ai-assistant)
+> Deployed URL: https://rag-chatbot-drpbfvjzayswttlnw6zzsa.streamlit.app/
 
 ---
 
