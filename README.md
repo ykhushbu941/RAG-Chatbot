@@ -90,8 +90,8 @@ wattmonk-rag/
 
 ### 1. Clone the repository
 \`\`\`bash
-git clone https://github.com/your-username/wattmonk-rag-chatbot.git
-cd wattmonk-rag-chatbot
+git clone https://github.com/ykhushbu941/RAG-Chatbot.git
+cd wattmonk-rag
 \`\`\`
 
 ### 2. Set up environment variables
