@@ -243,10 +243,5 @@ wattmonk-rag/
 
 ---
 
-## 📝 Submission
-
-**GitHub Repository:** [your-repo-url]  
-**Deployed Application:** [your-deployed-url]  
-**Demo Video:** [your-video-url]
 
 Built for: AI Intern Assignment — Wattmonk Technologies
